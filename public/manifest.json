@@ -1,0 +1,18 @@
+{
+  "short_name": "DailyOrder",
+  "name": "Daily Order List - နေ့စဉ်ကုန်ကြမ်းမှာယူမှု",
+  "description": "Daily ordering list application for kitchen and grocery management with Thai, Myanmar, and English item catalog.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#EFE9DD",
+  "theme_color": "#1F5D50",
+  "display": "standalone",
+  "orientation": "any"
+}

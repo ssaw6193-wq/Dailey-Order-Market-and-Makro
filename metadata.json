@@ -1,0 +1,6 @@
+{
+  "name": "Daily Order List",
+  "description": "Daily ordering list application for kitchen and grocery management with Thai and Myanmar item catalog, quantity tracking, extra items, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
